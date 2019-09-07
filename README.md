@@ -1,2 +1,2 @@
 # TinyCoreHardware
-Hardware Files for Tiny Core tinycore.dev
+Hardware Files for Tiny Core 
